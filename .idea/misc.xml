@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringSecurity-RememberMe/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringSecurity-VerifyCode/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringSecurity-Kick/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringSecurity-CSRF/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringSecurity-Session/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringSecurity-CSRF-2/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringSecurity-CSRF-3/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringSecurity-Oauth2/pom.xml" />
+        <option value="$PROJECT_DIR$/Oauth2/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

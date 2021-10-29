@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="SpringSecurity" />
+        <module name="SpringSecurity-VerifyCode" />
+        <module name="SpringSecurity-Kick" />
+        <module name="Oauth2" />
+        <module name="SpringSecurity-CSRF" />
+        <module name="SpringSecurity-RememberMe" />
+        <module name="SpringSecurity-Session" />
+        <module name="SpringSecurity-CSRF-2" />
+        <module name="SpringSecurity-CSRF-3" />
+        <module name="SpringSecurity-Oauth2" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Oauth2" target="11" />
+      <module name="SpringSecurity" target="11" />
+      <module name="SpringSecurity-CSRF" target="11" />
+      <module name="SpringSecurity-CSRF-2" target="11" />
+      <module name="SpringSecurity-CSRF-3" target="11" />
+      <module name="SpringSecurity-Kick" target="11" />
+      <module name="SpringSecurity-Oauth2" target="11" />
+      <module name="SpringSecurity-RememberMe" target="11" />
+      <module name="SpringSecurity-Session" target="11" />
+      <module name="SpringSecurity-VerifyCode" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Oauth2" options="-parameters" />
+      <module name="SpringSecurity" options="-parameters" />
+      <module name="SpringSecurity-CSRF" options="-parameters" />
+      <module name="SpringSecurity-CSRF-2" options="-parameters" />
+      <module name="SpringSecurity-CSRF-3" options="-parameters" />
+      <module name="SpringSecurity-Kick" options="-parameters" />
+      <module name="SpringSecurity-Oauth2" options="-parameters" />
+      <module name="SpringSecurity-RememberMe" options="-parameters" />
+      <module name="SpringSecurity-Session" options="-parameters" />
+      <module name="SpringSecurity-VerifyCode" options="-parameters" />
+    </option>
+  </component>
+</project>
