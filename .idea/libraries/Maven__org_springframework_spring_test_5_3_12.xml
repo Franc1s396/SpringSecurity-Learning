@@ -1,13 +1,13 @@
 <component name="libraryTable">
-  <library name="Maven: org.apiguardian:apiguardian-api:1.1.0">
+  <library name="Maven: com.fasterxml.jackson.core:jackson-core:2.12.5">
     <CLASSES>
-      <root url="jar://C:/MavenRepo/org/apiguardian/apiguardian-api/1.1.0/apiguardian-api-1.1.0.jar!/" />
+      <root url="jar://C:/MavenRepo/com/fasterxml/jackson/core/jackson-core/2.12.5/jackson-core-2.12.5.jar!/" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar://C:/MavenRepo/org/apiguardian/apiguardian-api/1.1.0/apiguardian-api-1.1.0-javadoc.jar!/" />
+      <root url="jar://C:/MavenRepo/com/fasterxml/jackson/core/jackson-core/2.12.5/jackson-core-2.12.5-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
-      <root url="jar://C:/MavenRepo/org/apiguardian/apiguardian-api/1.1.0/apiguardian-api-1.1.0-sources.jar!/" />
+      <root url="jar://C:/MavenRepo/com/fasterxml/jackson/core/jackson-core/2.12.5/jackson-core-2.12.5-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

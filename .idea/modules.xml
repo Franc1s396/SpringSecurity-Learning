@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/SpringSecurity-CSRF/SpringSecurity-CSRF.iml" filepath="$PROJECT_DIR$/SpringSecurity-CSRF/SpringSecurity-CSRF.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringSecurity-CSRF-2/SpringSecurity-CSRF-2.iml" filepath="$PROJECT_DIR$/SpringSecurity-CSRF-2/SpringSecurity-CSRF-2.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringSecurity-CSRF-3/SpringSecurity-CSRF-3.iml" filepath="$PROJECT_DIR$/SpringSecurity-CSRF-3/SpringSecurity-CSRF-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringSecurity-JSON/SpringSecurity-JSON.iml" filepath="$PROJECT_DIR$/SpringSecurity-JSON/SpringSecurity-JSON.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringSecurity-Kick/SpringSecurity-Kick.iml" filepath="$PROJECT_DIR$/SpringSecurity-Kick/SpringSecurity-Kick.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringSecurity-Oauth2/SpringSecurity-Oauth2.iml" filepath="$PROJECT_DIR$/SpringSecurity-Oauth2/SpringSecurity-Oauth2.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringSecurity-RememberMe/SpringSecurity-RememberMe.iml" filepath="$PROJECT_DIR$/SpringSecurity-RememberMe/SpringSecurity-RememberMe.iml" />

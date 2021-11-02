@@ -10,6 +10,7 @@
         <module name="SpringSecurity-VerifyCode" />
         <module name="SpringSecurity-Kick" />
         <module name="Oauth2" />
+        <module name="SpringSecurity-JSON" />
         <module name="SpringSecurity-CSRF" />
         <module name="SpringSecurity-RememberMe" />
         <module name="SpringSecurity-Session" />
@@ -24,6 +25,7 @@
       <module name="SpringSecurity-CSRF" target="11" />
       <module name="SpringSecurity-CSRF-2" target="11" />
       <module name="SpringSecurity-CSRF-3" target="11" />
+      <module name="SpringSecurity-JSON" target="11" />
       <module name="SpringSecurity-Kick" target="11" />
       <module name="SpringSecurity-Oauth2" target="11" />
       <module name="SpringSecurity-RememberMe" target="11" />
@@ -38,6 +40,7 @@
       <module name="SpringSecurity-CSRF" options="-parameters" />
       <module name="SpringSecurity-CSRF-2" options="-parameters" />
       <module name="SpringSecurity-CSRF-3" options="-parameters" />
+      <module name="SpringSecurity-JSON" options="-parameters" />
       <module name="SpringSecurity-Kick" options="-parameters" />
       <module name="SpringSecurity-Oauth2" options="-parameters" />
       <module name="SpringSecurity-RememberMe" options="-parameters" />
