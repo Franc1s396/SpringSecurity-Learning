@@ -9,14 +9,12 @@
         <module name="SpringSecurity" />
         <module name="SpringSecurity-VerifyCode" />
         <module name="SpringSecurity-Kick" />
-        <module name="Oauth2" />
         <module name="SpringSecurity-JSON" />
         <module name="SpringSecurity-CSRF" />
         <module name="SpringSecurity-RememberMe" />
         <module name="SpringSecurity-Session" />
         <module name="SpringSecurity-CSRF-2" />
         <module name="SpringSecurity-CSRF-3" />
-        <module name="SpringSecurity-Oauth2" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

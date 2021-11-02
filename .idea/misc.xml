@@ -11,8 +11,6 @@
         <option value="$PROJECT_DIR$/SpringSecurity-Session/pom.xml" />
         <option value="$PROJECT_DIR$/SpringSecurity-CSRF-2/pom.xml" />
         <option value="$PROJECT_DIR$/SpringSecurity-CSRF-3/pom.xml" />
-        <option value="$PROJECT_DIR$/SpringSecurity-Oauth2/pom.xml" />
-        <option value="$PROJECT_DIR$/Oauth2/pom.xml" />
         <option value="$PROJECT_DIR$/SpringSecurity-JSON/pom.xml" />
       </list>
     </option>

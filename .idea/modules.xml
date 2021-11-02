@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Oauth2/Oauth2.iml" filepath="$PROJECT_DIR$/Oauth2/Oauth2.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringSecurity.iml" filepath="$PROJECT_DIR$/SpringSecurity.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringSecurity-CSRF/SpringSecurity-CSRF.iml" filepath="$PROJECT_DIR$/SpringSecurity-CSRF/SpringSecurity-CSRF.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringSecurity-CSRF-2/SpringSecurity-CSRF-2.iml" filepath="$PROJECT_DIR$/SpringSecurity-CSRF-2/SpringSecurity-CSRF-2.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringSecurity-CSRF-3/SpringSecurity-CSRF-3.iml" filepath="$PROJECT_DIR$/SpringSecurity-CSRF-3/SpringSecurity-CSRF-3.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringSecurity-JSON/SpringSecurity-JSON.iml" filepath="$PROJECT_DIR$/SpringSecurity-JSON/SpringSecurity-JSON.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringSecurity-Kick/SpringSecurity-Kick.iml" filepath="$PROJECT_DIR$/SpringSecurity-Kick/SpringSecurity-Kick.iml" />
-      <module fileurl="file://$PROJECT_DIR$/SpringSecurity-Oauth2/SpringSecurity-Oauth2.iml" filepath="$PROJECT_DIR$/SpringSecurity-Oauth2/SpringSecurity-Oauth2.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringSecurity-RememberMe/SpringSecurity-RememberMe.iml" filepath="$PROJECT_DIR$/SpringSecurity-RememberMe/SpringSecurity-RememberMe.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringSecurity-Session/SpringSecurity-Session.iml" filepath="$PROJECT_DIR$/SpringSecurity-Session/SpringSecurity-Session.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringSecurity-VerifyCode/SpringSecurity-VerifyCode.iml" filepath="$PROJECT_DIR$/SpringSecurity-VerifyCode/SpringSecurity-VerifyCode.iml" />

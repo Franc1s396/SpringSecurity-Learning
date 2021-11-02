@@ -7,8 +7,6 @@
     <file url="file://$PROJECT_DIR$/SpringSecurity-CSRF/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/SpringSecurity-JSON/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/SpringSecurity-Kick/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/SpringSecurity-Oauth2/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/SpringSecurity-Oauth2/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/SpringSecurity-RememberMe/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/SpringSecurity-Session/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/SpringSecurity-VerifyCode/src/main/java" charset="UTF-8" />
