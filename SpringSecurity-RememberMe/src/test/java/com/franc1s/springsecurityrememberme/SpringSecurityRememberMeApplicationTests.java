@@ -8,6 +8,8 @@ class SpringSecurityRememberMeApplicationTests {
 
     @Test
     void contextLoads() {
+        System.out.println("最优装载为： 33");
+        System.out.println("1 0 0 0 0 1");
     }
 
 }
